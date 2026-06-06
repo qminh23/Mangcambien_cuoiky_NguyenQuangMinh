@@ -19,9 +19,6 @@ Dự án được tổ chức thành các thành phần chính như sau:
 
 ```text
 DoAn_MangCamBien_N23DCCI046/
-├── dataset/                     # Thư mục chứa 291 ảnh thực tế đã gán nhãn
-│   ├── test/                    # Tập dữ liệu kiểm thử (20% - 54 ảnh)
-│   └── train/                   # Tập dữ liệu huấn luyện (80% - 237 ảnh)
 ├── deployment_wasm/             # Mã nguồn triển khai AI lên Web
 │   ├── edge-impulse-standalone.js    # Thư viện lõi xử lý AI của Edge Impulse
 │   ├── edge-impulse-standalone.wasm  # Mô hình mạng nơ-ron đã biên dịch
