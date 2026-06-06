@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>kep_giay_10.png</filename>
+    <path>/Users/macos/Desktop/N23DCCI046_New/dataset_output/train/kep_giay_10.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>720</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>kep_giay</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>529</ymin>
+            <xmax>498</xmax>
+            <ymax>836</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>pin_46.png</filename>
+    <path>/Users/macos/Desktop/N23DCCI046_New/dataset_output/train/pin_46.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>640</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pin</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>203</xmin>
+            <ymin>221</ymin>
+            <xmax>485</xmax>
+            <ymax>527</ymax>
+        </bndbox>
+    </object>
+</annotation>
